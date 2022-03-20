@@ -1,0 +1,21 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:bx="https://boxy-svg.com"
+  viewBox="0 0 379.297 211.831"
+>
+  <g fill="#FFFAEB" stroke="#000" stroke-opacity="0.05" paint-order="stroke">
+    <path
+      d="M189.448 105.916L1.599 210.632V1.2l187.849 104.716z"
+      bx:shape="triangle 97.768 324.401 209.432 187.849 0.5 0 1@d4e1378c"
+    ></path>
+    <path
+      stroke-linejoin="round"
+      d="M189.849 106.115L378.098 1.399V210.83l-188.25-104.716z"
+      bx:shape="triangle 263.39 83.911 209.432 188.249 0.5 0 1@3953b162"
+    ></path>
+    <path
+      d="M187.953 93.883q1.895-1.179 3.789 0l185.668 115.57q1.895 1.179-1.894 1.179H4.179q-3.789 0-1.894-1.179z"
+      bx:shape="triangle 0.39 92.704 378.915 117.928 0.5 0.01 1@70fb4883"
+    ></path>
+  </g>
+</svg>
